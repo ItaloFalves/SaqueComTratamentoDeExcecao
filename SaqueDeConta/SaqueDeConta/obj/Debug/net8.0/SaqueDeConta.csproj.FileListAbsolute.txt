@@ -1,0 +1,14 @@
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\bin\Debug\net8.0\SaqueDeConta.exe
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\bin\Debug\net8.0\SaqueDeConta.deps.json
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\bin\Debug\net8.0\SaqueDeConta.runtimeconfig.json
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\bin\Debug\net8.0\SaqueDeConta.dll
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\bin\Debug\net8.0\SaqueDeConta.pdb
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\obj\Debug\net8.0\SaqueDeConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\obj\Debug\net8.0\SaqueDeConta.AssemblyInfoInputs.cache
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\obj\Debug\net8.0\SaqueDeConta.AssemblyInfo.cs
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\obj\Debug\net8.0\SaqueDeConta.csproj.CoreCompileInputs.cache
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\obj\Debug\net8.0\SaqueDeConta.dll
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\obj\Debug\net8.0\refint\SaqueDeConta.dll
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\obj\Debug\net8.0\SaqueDeConta.pdb
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\obj\Debug\net8.0\SaqueDeConta.genruntimeconfig.cache
+C:\temp\projetos\C# - Curso\SaqueComTratamentoDeExcecao\SaqueDeConta\SaqueDeConta\obj\Debug\net8.0\ref\SaqueDeConta.dll
